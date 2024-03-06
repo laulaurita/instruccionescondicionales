@@ -15,3 +15,7 @@ precio_costo<3000 precio_costo< Ganancia=0,15 precio_costo Ganancia=0,25 precio_
 Nos indicara cual es el valor final de los productos.
 
 # diseño
+
+![diagrama de flujo](diagrama.png "diagrama de flujo")
+
+# Construccion 
